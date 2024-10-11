@@ -1,5 +1,5 @@
 # GitBasic
 
-This is my Firstc repo
+This is my First repo
 <br>
 Pranav(Majagaonkar)
